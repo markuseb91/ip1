@@ -1,0 +1,91 @@
+elapsed,responseMessage,bytes,URL
+278,OK,95786,http://ec2.insiderpages.com/store_finder
+341,OK,95738,http://ec2.insiderpages.com/store_finder
+556,OK,95790,http://ec2.insiderpages.com/store_finder
+316,OK,95808,http://ec2.insiderpages.com/store_finder
+781,Internal Server Error,26252,http://ec2.insiderpages.com/b/15240030033/candlewood-suites-houston
+1365,Internal Server Error,26211,http://ec2.insiderpages.com/b/15247422250/public-storage-boston
+283,OK,95734,http://ec2.insiderpages.com/store_finder
+818,Internal Server Error,26344,http://ec2.insiderpages.com/b/15253810636/hilton-dallas-lincoln-centre--dallas-hotels-dallas
+529,OK,95751,http://ec2.insiderpages.com/store_finder
+753,Internal Server Error,26280,http://ec2.insiderpages.com/b/15255401858/goodyear-river-oaks-tire-river-oaks
+381,OK,95826,http://ec2.insiderpages.com/store_finder
+484,OK,95862,http://ec2.insiderpages.com/store_finder
+1201,Internal Server Error,26297,http://ec2.insiderpages.com/b/15255621487/penske-truck-rental-las-vegas-2
+1053,OK,95755,http://ec2.insiderpages.com/store_finder
+839,OK,95817,http://ec2.insiderpages.com/store_finder
+725,OK,95769,http://ec2.insiderpages.com/store_finder
+222,OK,95784,http://ec2.insiderpages.com/store_finder
+397,OK,95830,http://ec2.insiderpages.com/store_finder
+602,OK,95854,http://ec2.insiderpages.com/store_finder
+740,OK,95885,http://ec2.insiderpages.com/store_finder
+484,OK,95772,http://ec2.insiderpages.com/store_finder
+506,OK,95765,http://ec2.insiderpages.com/store_finder
+3185,OK,95804,http://ec2.insiderpages.com/store_finder
+672,OK,95797,http://ec2.insiderpages.com/store_finder
+2207,Internal Server Error,26284,http://ec2.insiderpages.com/b/3718182097/rite-aid-pharmacies-trenton
+1710,Internal Server Error,26280,http://ec2.insiderpages.com/b/3713937537/staybridge-suites-lincolnshire-1
+287,OK,95743,http://ec2.insiderpages.com/store_finder
+295,OK,95749,http://ec2.insiderpages.com/store_finder
+859,OK,95765,http://ec2.insiderpages.com/store_finder
+2484,OK,95805,http://ec2.insiderpages.com/store_finder
+1759,Internal Server Error,26299,http://ec2.insiderpages.com/b/15255237874/econo-lodge-castro-valley-castro-valley
+305,OK,95791,http://ec2.insiderpages.com/store_finder
+9570,OK,95765,http://ec2.insiderpages.com/store_finder
+423,OK,95866,http://ec2.insiderpages.com/store_finder
+288,OK,95819,http://ec2.insiderpages.com/store_finder
+548,OK,95776,http://ec2.insiderpages.com/store_finder
+2150,OK,95769,http://ec2.insiderpages.com/store_finder
+492,OK,95804,http://ec2.insiderpages.com/store_finder
+1056,OK,95791,http://ec2.insiderpages.com/store_finder
+1450,OK,95806,http://ec2.insiderpages.com/store_finder
+1758,OK,95765,http://ec2.insiderpages.com/store_finder
+2524,Internal Server Error,26155,http://ec2.insiderpages.com/b/15254679224/tmobile-dallas-22
+2841,Internal Server Error,26221,http://ec2.insiderpages.com/b/3718210873/holiday-inn-hazlet-hazlet-2
+2045,OK,95837,http://ec2.insiderpages.com/store_finder
+939,Internal Server Error,26146,http://ec2.insiderpages.com/b/15240369287/terminix-aurora
+883,OK,95825,http://ec2.insiderpages.com/store_finder
+1263,OK,95748,http://ec2.insiderpages.com/store_finder
+984,OK,95766,http://ec2.insiderpages.com/store_finder
+1431,OK,95786,http://ec2.insiderpages.com/store_finder
+509,OK,95791,http://ec2.insiderpages.com/store_finder
+762,Internal Server Error,26338,http://ec2.insiderpages.com/b/15257722605/enterprise-rentacar-san-francisco-8
+895,OK,95830,http://ec2.insiderpages.com/store_finder
+885,Internal Server Error,26283,http://ec2.insiderpages.com/b/3718182097/rite-aid-pharmacies-trenton
+181,OK,95790,http://ec2.insiderpages.com/store_finder
+727,OK,95789,http://ec2.insiderpages.com/store_finder
+666,OK,95768,http://ec2.insiderpages.com/store_finder
+1427,Internal Server Error,26180,http://ec2.insiderpages.com/b/15248043523/supercuts-cambridge-1
+472,Internal Server Error,26250,http://ec2.insiderpages.com/b/15240029435/staybridge-suites-atlanta
+3540,OK,95789,http://ec2.insiderpages.com/store_finder
+354,OK,95791,http://ec2.insiderpages.com/store_finder
+486,OK,95783,http://ec2.insiderpages.com/store_finder
+1915,OK,95766,http://ec2.insiderpages.com/store_finder
+3859,OK,95819,http://ec2.insiderpages.com/store_finder
+652,Internal Server Error,26196,http://ec2.insiderpages.com/b/15244747515/glass-doctor-tukwila
+1699,Internal Server Error,26198,http://ec2.insiderpages.com/b/15257858590/tmobile-washington-dc-11
+1486,OK,95856,http://ec2.insiderpages.com/store_finder
+907,OK,95819,http://ec2.insiderpages.com/store_finder
+604,OK,95813,http://ec2.insiderpages.com/store_finder
+869,OK,95774,http://ec2.insiderpages.com/store_finder
+1123,OK,95789,http://ec2.insiderpages.com/store_finder
+303,OK,95810,http://ec2.insiderpages.com/store_finder
+2525,OK,95735,http://ec2.insiderpages.com/store_finder
+804,OK,95905,http://ec2.insiderpages.com/store_finder
+315,OK,95781,http://ec2.insiderpages.com/store_finder
+324,OK,95831,http://ec2.insiderpages.com/store_finder
+1003,OK,95768,http://ec2.insiderpages.com/store_finder
+540,OK,95823,http://ec2.insiderpages.com/store_finder
+313,OK,95857,http://ec2.insiderpages.com/store_finder
+296,OK,95744,http://ec2.insiderpages.com/store_finder
+591,OK,95750,http://ec2.insiderpages.com/store_finder
+787,Internal Server Error,26180,http://ec2.insiderpages.com/b/15257857797/tmobile-montebello-3
+800,OK,95797,http://ec2.insiderpages.com/store_finder
+639,OK,95829,http://ec2.insiderpages.com/store_finder
+301,OK,95847,http://ec2.insiderpages.com/store_finder
+667,OK,95774,http://ec2.insiderpages.com/store_finder
+377,OK,95777,http://ec2.insiderpages.com/store_finder
+355,OK,95848,http://ec2.insiderpages.com/store_finder
+420,OK,95844,http://ec2.insiderpages.com/store_finder
+432,OK,95797,http://ec2.insiderpages.com/store_finder
+203,OK,95836,http://ec2.insiderpages.com/store_finder

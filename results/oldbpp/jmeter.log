@@ -1,0 +1,1112 @@
+2012/12/05 13:59:48 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2012/12/05 13:59:49 INFO  - jmeter.JMeter: Loading user properties from: /usr/jmeter/apache-jmeter-2.8/bin/user.properties 
+2012/12/05 13:59:49 INFO  - jmeter.JMeter: Loading system properties from: /usr/jmeter/apache-jmeter-2.8/bin/system.properties 
+2012/12/05 13:59:49 INFO  - jmeter.JMeter: Setting JMeter property: ip.results.dir=/home/jmeter/ip1 
+2012/12/05 13:59:49 INFO  - jmeter.JMeter: Setting JMeter property: ip.num.threads=1 
+2012/12/05 13:59:49 INFO  - jmeter.JMeter: Setting JMeter property: ip.test.duration=300 
+2012/12/05 13:59:49 INFO  - jmeter.JMeter: Copyright (c) 1998-2012 The Apache Software Foundation 
+2012/12/05 13:59:49 INFO  - jmeter.JMeter: Version 2.8 r1393162 
+2012/12/05 13:59:49 INFO  - jmeter.JMeter: java.version=1.6.0_37 
+2012/12/05 13:59:49 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2012/12/05 13:59:49 INFO  - jmeter.JMeter: os.name=Linux 
+2012/12/05 13:59:49 INFO  - jmeter.JMeter: os.arch=amd64 
+2012/12/05 13:59:49 INFO  - jmeter.JMeter: os.version=2.6.32-220.el6.x86_64 
+2012/12/05 13:59:49 INFO  - jmeter.JMeter: file.encoding=ANSI_X3.4-1968 
+2012/12/05 13:59:49 INFO  - jmeter.JMeter: Default Locale=English (United States) 
+2012/12/05 13:59:49 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
+2012/12/05 13:59:49 INFO  - jmeter.JMeter: JMeterHome=/usr/jmeter/apache-jmeter-2.8 
+2012/12/05 13:59:49 INFO  - jmeter.JMeter: user.dir  =/usr/jmeter/apache-jmeter-2.8/bin 
+2012/12/05 13:59:49 INFO  - jmeter.JMeter: PWD       =/usr/jmeter/apache-jmeter-2.8/bin 
+2012/12/05 13:59:49 INFO  - jmeter.JMeter: IP: 10.29.35.200 Name: aws1devipa1.ipqa.ctgrd.com FullName: ip-10-29-35-200.ec2.internal 
+2012/12/05 13:59:49 INFO  - jmeter.services.FileServer: Default base='/usr/jmeter/apache-jmeter-2.8/bin' 
+2012/12/05 13:59:49 INFO  - jmeter.services.FileServer: Set new base='/home/jmeter/ip1/testplans' 
+2012/12/05 13:59:49 INFO  - jmeter.JMeter: Loading file: /home/jmeter/ip1/testplans/IP1_OldIP1Req.jmx 
+2012/12/05 13:59:49 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2012/12/05 13:59:49 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2012/12/05 13:59:49 INFO  - jmeter.save.SaveService: Using SaveService properties file version 1382180 
+2012/12/05 13:59:49 INFO  - jmeter.save.SaveService: Using SaveService properties version 2.3 
+2012/12/05 13:59:49 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2012/12/05 13:59:49 INFO  - jmeter.util.NameUpdater: Processing jar:file:/usr/jmeter/apache-jmeter-2.8/lib/ext/JMeterPlugins.jar!/META-INF/resources/org.apache.jmeter.nameupdater.properties 
+2012/12/05 13:59:49 INFO  - jmeter.util.NameUpdater: Added additional nameMap entry: kg.apc.jmeter.vizualizers.TotalTransactionsPerSecondGui 
+2012/12/05 13:59:50 INFO  - jmeter.protocol.http.control.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_ 
+2012/12/05 13:59:50 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Cannot find .className property for htmlParser, using default 
+2012/12/05 13:59:50 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is  
+2012/12/05 13:59:50 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is  
+2012/12/05 13:59:50 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is  
+2012/12/05 13:59:50 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is  
+2012/12/05 13:59:50 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2012/12/05 13:59:50 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Reuse SSL session context on subsequent iterations: true 
+2012/12/05 13:59:50 INFO  - jmeter.engine.StandardJMeterEngine: Listeners will be started after enabling running version 
+2012/12/05 13:59:50 INFO  - jmeter.engine.StandardJMeterEngine: To revert to the earlier behaviour, define jmeterengine.startlistenerslater=false 
+2012/12/05 13:59:50 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2012/12/05 13:59:50 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2012/12/05 13:59:50 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2012/12/05 13:59:50 INFO  - jmeter.JMeter: Running test (1354744790662) 
+2012/12/05 13:59:50 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : IP_Req 
+2012/12/05 13:59:50 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group IP_Req. 
+2012/12/05 13:59:50 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2012/12/05 13:59:50 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2012/12/05 13:59:50 INFO  - jmeter.threads.JMeterThread: jmeterthread.startearlier=true (see jmeter.properties) 
+2012/12/05 13:59:50 INFO  - jmeter.threads.JMeterThread: Running PostProcessors in forward order 
+2012/12/05 13:59:50 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2012/12/05 13:59:50 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2012/12/05 13:59:50 INFO  - jmeter.threads.JMeterThread: Thread started: IP_Req 1-1 
+2012/12/05 13:59:50 INFO  - jmeter.services.FileServer: Stored: oldip_requests.csv Alias: oldip_requests.csv@1735121130 
+2012/12/05 13:59:51 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Maximum connection retries = 10 
+2012/12/05 13:59:51 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2012/12/05 13:59:51 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2012/12/05 13:59:51 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2012/12/05 13:59:51 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2012/12/05 13:59:53 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 13:59:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:00:01 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:00:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:00:05 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:00:40 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.net.SocketException: Unexpected end of file from server 
+2012/12/05 14:00:40 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.net.SocketException: Unexpected end of file from server 
+2012/12/05 14:00:50 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:00:55 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:01:04 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:01:12 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:01:27 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:01:28 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:01:28 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:01:31 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:01:41 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:01:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:02:03 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:02:35 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:02:36 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:02:53 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:02:58 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:03:07 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:03:40 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:03:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:04:15 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:04:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:04:31 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:04:45 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:04:56 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3718639508/supercuts-smithtown 
+2012/12/05 14:04:56 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3718639508/supercuts-smithtown 
+2012/12/05 14:04:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 14:05:08 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:05:16 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:05:18 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:05:45 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:06:07 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:06:11 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:06:29 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:06:40 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:06:40 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:06:47 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:07:23 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:07:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:07:50 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:07:51 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:07:53 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:07:54 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:08:09 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:08:18 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:08:22 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:08:28 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:09:26 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:09:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:09:35 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:10:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:10:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:10:43 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:11:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:11:10 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/13301355094/singer-holding-corp-elmsford 
+2012/12/05 14:11:10 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/13301355094/singer-holding-corp-elmsford 
+2012/12/05 14:11:10 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 14:11:18 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:11:21 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:11:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:11:58 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:12:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:12:39 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:12:43 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15242055991/exotic-limousines-las-vegas 
+2012/12/05 14:12:43 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15242055991/exotic-limousines-las-vegas 
+2012/12/05 14:12:43 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 14:14:01 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:14:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:14:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:14:47 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:15:27 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:15:32 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:15:41 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:15:42 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:15:49 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:15:52 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:16:06 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:16:39 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:17:40 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:18:38 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:18:41 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:19:08 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:19:25 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:19:27 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:19:41 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:20:04 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:20:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:20:55 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:21:31 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:22:11 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15246071461/fountain-spa-ramsey-1 
+2012/12/05 14:22:11 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15246071461/fountain-spa-ramsey-1 
+2012/12/05 14:22:11 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 14:22:24 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:22:27 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:22:47 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:22:55 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:22:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:23:50 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:24:12 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:24:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:24:39 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:24:55 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:25:15 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:25:39 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:25:41 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:25:46 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:25:52 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:25:57 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:25:57 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:26:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:26:55 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:27:14 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:28:21 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:28:26 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:28:26 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:28:27 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:28:28 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:28:28 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:28:29 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:28:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:29:15 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:29:18 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:29:22 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:29:35 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:29:55 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:30:32 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:30:37 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:31:05 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:31:20 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:31:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:31:40 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:31:41 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:31:51 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:31:59 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:32:11 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:32:17 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:32:27 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:32:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:32:57 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:32:57 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:33:14 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:33:39 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:33:57 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:34:19 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:35:13 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:35:23 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:35:48 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15243801960/kamps-propane-pine-grove-2 
+2012/12/05 14:35:48 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15243801960/kamps-propane-pine-grove-2 
+2012/12/05 14:35:48 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 14:35:54 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:36:10 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:36:12 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:36:16 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:36:27 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3722582386/halfprice-book-barn-fort-worth 
+2012/12/05 14:36:27 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3722582386/halfprice-book-barn-fort-worth 
+2012/12/05 14:36:27 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 14:36:58 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:37:04 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:37:06 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:37:14 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:37:43 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:38:06 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:38:10 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:38:24 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:38:39 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:39:08 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:39:45 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:39:59 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:40:26 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:40:43 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:41:09 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:41:15 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:41:16 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:41:16 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:41:19 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:41:21 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:41:28 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:41:46 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:41:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:41:59 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:42:23 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:42:23 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:43:05 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:43:36 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:43:40 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:43:54 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:44:03 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:44:13 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:45:13 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:45:20 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:45:46 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:46:21 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:46:26 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:46:55 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:47:01 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:47:05 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15246761939/hr-block-kenosha 
+2012/12/05 14:47:05 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15246761939/hr-block-kenosha 
+2012/12/05 14:47:05 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 14:47:40 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:47:44 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:47:45 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:48:24 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:48:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:48:41 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:48:42 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:48:42 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:48:43 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:48:43 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:48:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:49:10 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:49:17 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:49:32 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:49:41 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:50:12 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:50:29 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:50:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:50:31 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:50:55 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:51:45 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:52:13 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:52:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:52:38 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:52:52 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:52:53 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:52:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:53:05 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:53:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:54:17 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:54:21 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:55:17 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:55:38 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:55:44 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:55:49 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:55:52 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:55:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:56:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:56:03 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:56:04 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:56:04 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:56:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:56:54 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:57:19 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:57:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:58:01 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15247346679/resolution-ball-boston 
+2012/12/05 14:58:01 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15247346679/resolution-ball-boston 
+2012/12/05 14:58:01 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 14:58:18 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:58:26 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:58:28 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:58:41 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:58:51 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:59:25 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:59:47 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 14:59:53 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:00:37 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:01:06 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:01:28 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:01:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:02:04 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:02:35 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:02:51 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:03:10 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:03:35 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:03:47 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:04:29 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:04:43 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:04:51 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:06:01 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:06:19 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:06:52 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:07:44 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:07:47 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:07:50 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:07:51 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:08:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:08:21 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:08:27 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:08:38 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:08:46 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:09:05 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:09:09 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:09:22 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3722213522/monarch-dental-dallas-1 
+2012/12/05 15:09:22 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3722213522/monarch-dental-dallas-1 
+2012/12/05 15:09:22 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 15:09:24 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:09:50 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:10:11 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:10:24 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:10:25 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15255075410/samuels-repair-sedro-woolley-1 
+2012/12/05 15:10:25 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15255075410/samuels-repair-sedro-woolley-1 
+2012/12/05 15:10:25 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 15:10:29 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:10:32 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:10:43 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:10:57 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:11:13 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:11:40 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:11:41 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:12:33 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:12:51 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:13:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:13:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:13:25 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:13:51 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15240374281/ghelarducci--sons-auto-bridgeville 
+2012/12/05 15:13:51 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15240374281/ghelarducci--sons-auto-bridgeville 
+2012/12/05 15:13:51 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 15:13:59 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:13:59 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:14:15 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:14:25 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:14:27 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:14:30 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15255239917/dorothy-j-park--assoc-columbia-2 
+2012/12/05 15:14:30 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15255239917/dorothy-j-park--assoc-columbia-2 
+2012/12/05 15:14:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 15:15:17 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:15:17 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:15:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:15:39 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:15:44 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15243984612/turk-heating--cooling-inc-indianapolis 
+2012/12/05 15:15:44 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15243984612/turk-heating--cooling-inc-indianapolis 
+2012/12/05 15:15:44 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 15:15:55 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15243984612/turk-heating--cooling-inc-indianapolis 
+2012/12/05 15:15:55 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15243984612/turk-heating--cooling-inc-indianapolis 
+2012/12/05 15:15:55 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 15:16:25 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:16:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:16:50 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:17:17 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:17:52 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:18:38 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:18:57 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:18:58 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:18:58 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:18:59 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:19:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:19:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:19:01 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:19:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:19:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:19:03 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:19:24 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:19:33 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15255075410/samuels-repair-sedro-woolley-1 
+2012/12/05 15:19:33 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15255075410/samuels-repair-sedro-woolley-1 
+2012/12/05 15:19:33 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 15:20:43 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:20:43 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:20:53 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:20:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:20:57 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:20:57 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:21:31 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:22:09 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:22:19 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:22:19 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:22:20 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:22:21 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:22:22 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:22:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:22:31 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:23:03 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:23:05 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:23:28 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:24:03 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:24:28 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:24:31 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:24:32 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:24:40 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:24:41 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:24:41 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:24:47 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:24:48 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:24:48 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:24:52 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:24:52 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:25:54 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:26:01 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:26:23 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3716203136/snyder-veterinary-clinic-chesterfield 
+2012/12/05 15:26:23 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3716203136/snyder-veterinary-clinic-chesterfield 
+2012/12/05 15:26:23 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 15:27:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:27:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:27:38 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:27:44 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:27:46 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:27:49 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:28:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:28:32 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:28:38 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15250731184/crowes-construction-bath 
+2012/12/05 15:28:38 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15250731184/crowes-construction-bath 
+2012/12/05 15:28:38 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 15:28:39 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:29:08 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:29:29 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:29:33 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:29:59 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:30:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:31:12 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:31:14 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:32:07 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:32:33 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:32:59 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:33:06 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:33:11 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:33:21 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:33:57 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:34:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:34:07 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:34:53 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:35:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:36:26 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:36:27 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:36:27 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:36:31 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:37:08 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:37:31 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:37:42 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:37:47 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:37:55 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:38:25 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:38:40 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:39:02 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15250632123/emergency-pet-hospital-of-orlando--mohammed-hassan-dvm-orlando 
+2012/12/05 15:39:02 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15250632123/emergency-pet-hospital-of-orlando--mohammed-hassan-dvm-orlando 
+2012/12/05 15:39:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 15:39:19 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:39:58 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:40:13 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:40:14 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:40:22 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:41:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:41:13 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:41:24 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:42:10 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:42:14 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:42:36 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:43:04 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:43:16 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:43:20 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:45:19 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:45:24 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:45:47 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:46:22 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:46:25 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:46:38 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:46:49 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:46:50 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:46:50 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:46:54 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:47:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:47:49 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:48:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:48:14 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:48:21 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3722213522/monarch-dental-dallas-1 
+2012/12/05 15:48:21 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3722213522/monarch-dental-dallas-1 
+2012/12/05 15:48:21 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 15:48:40 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:48:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:49:01 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:49:03 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:49:08 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:49:13 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:49:28 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:49:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:50:03 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:50:14 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:50:16 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:50:29 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:50:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:50:58 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:51:24 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:51:31 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:51:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:51:44 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:51:44 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:51:54 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:52:04 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:52:14 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:52:26 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:52:37 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:52:40 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:53:04 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:53:09 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15241475131/my-clubhouse-party-place-doral 
+2012/12/05 15:53:09 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15241475131/my-clubhouse-party-place-doral 
+2012/12/05 15:53:09 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 15:53:10 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:53:36 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:54:21 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:54:36 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:55:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:55:42 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:56:27 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:56:39 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:57:06 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15251254005/wolf-driving-school-schaumburg 
+2012/12/05 15:57:06 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15251254005/wolf-driving-school-schaumburg 
+2012/12/05 15:57:06 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 15:57:13 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:57:35 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:57:57 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:58:07 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:58:14 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:58:41 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:58:49 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:58:50 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:58:53 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:59:09 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:59:18 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:59:18 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:59:19 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:59:37 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 15:59:40 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:00:33 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:00:51 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:00:58 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:01:23 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:01:26 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:01:40 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:01:41 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:02:51 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:02:52 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:02:52 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:03:29 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:03:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:03:59 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:04:23 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:04:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:04:50 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:04:53 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:04:54 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:04:54 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:04:55 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:04:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:04:58 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:04:59 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:01 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:01 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:03 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:09 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:11 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:22 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:23 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:31 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:32 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:32 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:33 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:36 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:36 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:37 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:37 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:38 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:39 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:39 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:49 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:50 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:55 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:05:59 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:06:04 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:06:08 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:06:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:06:47 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:06:57 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:06:59 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:07:10 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:07:11 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:07:13 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:07:57 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:08:26 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:08:42 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:08:54 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:09:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:09:57 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:10:35 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:10:38 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:11:09 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:11:20 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:12:36 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:13:25 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:13:33 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:13:36 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:13:54 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:14:02 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3721060712/american-classic-shutters-inc-taylors 
+2012/12/05 16:14:02 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3721060712/american-classic-shutters-inc-taylors 
+2012/12/05 16:14:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 16:14:15 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:15:20 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:15:21 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:15:27 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:15:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:15:46 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:15:49 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:16:20 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:16:22 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:16:24 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:16:39 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:16:52 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:16:58 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:17:32 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:18:04 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:18:14 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:18:18 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:18:45 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:19:05 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:19:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:19:46 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:20:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:20:36 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:20:49 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3714625219/omni-41-health--fitness-connection-schererville 
+2012/12/05 16:20:49 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3714625219/omni-41-health--fitness-connection-schererville 
+2012/12/05 16:20:49 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 16:20:50 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:20:57 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:21:20 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:21:29 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:21:37 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:21:38 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:21:47 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:21:55 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:22:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:22:13 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:22:28 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:22:48 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:23:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:23:06 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:23:14 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:24:35 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:24:40 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:25:14 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:25:42 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:25:53 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:26:03 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:26:17 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:26:32 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:26:39 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:26:43 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:27:32 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:27:43 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:27:44 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:27:48 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:27:51 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:28:24 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:28:48 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:29:01 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:29:19 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:29:25 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:30:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:30:04 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:30:04 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:30:11 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:30:13 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:30:16 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:30:22 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:30:23 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:30:51 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:31:22 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:31:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:31:49 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:32:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:32:10 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:32:11 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:32:40 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:32:42 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:33:13 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:33:16 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:33:24 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:33:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:34:04 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:34:09 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3709401351/valley-medical-care-juneau 
+2012/12/05 16:34:09 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3709401351/valley-medical-care-juneau 
+2012/12/05 16:34:09 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 16:34:12 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:34:12 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:34:14 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15240367776/nisqually-automotive--towing-service-olympia 
+2012/12/05 16:34:14 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15240367776/nisqually-automotive--towing-service-olympia 
+2012/12/05 16:34:14 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 16:34:15 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:34:16 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:35:01 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:35:13 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3712503262/seminole-marine-maintenance-palm-beach-gardens 
+2012/12/05 16:35:13 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3712503262/seminole-marine-maintenance-palm-beach-gardens 
+2012/12/05 16:35:13 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 16:35:29 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:35:46 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:35:54 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:35:55 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:35:58 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3721295228/castle-dental-nashville-6 
+2012/12/05 16:35:58 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3721295228/castle-dental-nashville-6 
+2012/12/05 16:35:58 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 16:36:03 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15246071461/fountain-spa-ramsey-1 
+2012/12/05 16:36:03 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15246071461/fountain-spa-ramsey-1 
+2012/12/05 16:36:03 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 16:36:07 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3721099698/pit-stop-service-center-goose-creek 
+2012/12/05 16:36:07 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3721099698/pit-stop-service-center-goose-creek 
+2012/12/05 16:36:07 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 16:36:08 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:36:10 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:36:21 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15246071461/fountain-spa-ramsey-1 
+2012/12/05 16:36:21 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15246071461/fountain-spa-ramsey-1 
+2012/12/05 16:36:21 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 16:36:35 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:36:55 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:37:05 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:37:15 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:37:15 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:37:41 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:37:48 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:38:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:38:17 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:38:42 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:38:43 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:38:46 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:38:55 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:39:01 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:39:01 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:39:07 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:39:30 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3709579471/freeman-automotive-service-montgomery-1 
+2012/12/05 16:39:30 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3709579471/freeman-automotive-service-montgomery-1 
+2012/12/05 16:39:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 16:39:42 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:39:58 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:40:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:40:07 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:40:25 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:40:42 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:40:45 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:40:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:41:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:41:03 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:41:03 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:41:17 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:41:18 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:41:28 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:41:43 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:41:50 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15255053270/specialized-garage-doors-highland 
+2012/12/05 16:41:50 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15255053270/specialized-garage-doors-highland 
+2012/12/05 16:41:50 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 16:41:51 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:42:18 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:42:18 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:42:45 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:43:29 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3721941532/monarch-dental-houston-20 
+2012/12/05 16:43:29 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3721941532/monarch-dental-houston-20 
+2012/12/05 16:43:29 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 16:43:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:43:32 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:43:45 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:43:51 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:43:54 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:43:59 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:44:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:44:06 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:44:18 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3721673494/castle-dental-humble-2 
+2012/12/05 16:44:18 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3721673494/castle-dental-humble-2 
+2012/12/05 16:44:18 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 16:44:23 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:44:26 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:44:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:44:45 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:45:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:45:17 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:45:18 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:45:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:45:56 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3720988931/newport-marriott-newport-2 
+2012/12/05 16:45:56 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3720988931/newport-marriott-newport-2 
+2012/12/05 16:45:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 16:46:05 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:46:17 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:46:29 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:46:39 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:46:45 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:46:45 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:47:35 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:47:53 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15254963994/dr-john-falkenroth-dc-soquel-1 
+2012/12/05 16:47:53 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15254963994/dr-john-falkenroth-dc-soquel-1 
+2012/12/05 16:47:53 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 16:48:07 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:48:08 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:48:15 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:48:34 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15240084916/davita-renal-treatment-centersbatesville-batesville 
+2012/12/05 16:48:34 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15240084916/davita-renal-treatment-centersbatesville-batesville 
+2012/12/05 16:48:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 16:48:45 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:48:52 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:49:27 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:49:27 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:49:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:49:48 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:50:25 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:50:27 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:50:55 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:51:04 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:51:10 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:51:39 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:51:46 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:51:48 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:51:51 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:51:56 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15251254005/wolf-driving-school-schaumburg 
+2012/12/05 16:51:56 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15251254005/wolf-driving-school-schaumburg 
+2012/12/05 16:51:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 16:52:16 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:52:20 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:52:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:52:38 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:52:49 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:53:06 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:53:47 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:54:11 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:55:09 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:55:10 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15250702751/carway-town-car-naples 
+2012/12/05 16:55:10 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15250702751/carway-town-car-naples 
+2012/12/05 16:55:10 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 16:55:19 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:55:49 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:56:15 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:56:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:56:51 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:56:56 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15243607264/the-edison-los-angeles 
+2012/12/05 16:56:56 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15243607264/the-edison-los-angeles 
+2012/12/05 16:56:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 16:57:09 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15243658019/john-portaro-farmers-insurance-arcadia 
+2012/12/05 16:57:09 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15243658019/john-portaro-farmers-insurance-arcadia 
+2012/12/05 16:57:09 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 16:57:35 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:57:45 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:57:46 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:57:52 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:58:08 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:58:08 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:59:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 16:59:51 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:00:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:00:34 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15257359017/pierson-chevrolet-buick-gadsden 
+2012/12/05 17:00:34 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15257359017/pierson-chevrolet-buick-gadsden 
+2012/12/05 17:00:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 17:00:35 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:00:35 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:00:36 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:00:49 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:01:05 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:01:10 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:01:26 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:01:37 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:01:44 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3714570921/southport-dental-pc-indianapolis-1 
+2012/12/05 17:01:44 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3714570921/southport-dental-pc-indianapolis-1 
+2012/12/05 17:01:44 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 17:02:46 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:02:46 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:02:47 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:02:49 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:02:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:03:16 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:03:22 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:03:33 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:03:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:03:36 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:03:54 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:04:52 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:05:03 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:05:42 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:05:44 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:05:55 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:06:05 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:06:18 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:06:18 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:06:52 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:07:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:07:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:07:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:07:10 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:07:22 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:07:26 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:07:43 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:08:39 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:08:43 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:09:04 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:09:26 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:09:26 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:09:37 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:09:50 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:09:53 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:10:05 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:10:10 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:10:11 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:10:16 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:10:18 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15257618384/jg-towing-dallas 
+2012/12/05 17:10:18 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15257618384/jg-towing-dallas 
+2012/12/05 17:10:18 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 17:10:39 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:10:48 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:10:55 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:11:21 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:11:32 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:11:55 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:11:56 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3711446810/juan-j-dominguez-los-angeles 
+2012/12/05 17:11:56 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3711446810/juan-j-dominguez-los-angeles 
+2012/12/05 17:11:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 17:12:08 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:12:11 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:12:46 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:12:47 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:12:53 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:13:06 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:13:12 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:13:32 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:14:39 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:14:39 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:15:06 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:15:25 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:15:36 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:15:51 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:15:59 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:16:04 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:16:09 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:16:29 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:17:07 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:17:20 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:17:22 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:17:28 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:18:27 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:18:27 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:20:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:20:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:20:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:20:57 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:21:04 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:21:09 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:21:35 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:21:51 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:21:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:23:11 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:23:12 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:24:23 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:24:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:25:36 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:25:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:26:18 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:26:45 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3715132435/james-drug-store-denham-springs 
+2012/12/05 17:26:45 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3715132435/james-drug-store-denham-springs 
+2012/12/05 17:26:45 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 17:26:50 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:27:06 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:27:25 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:27:26 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:27:26 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:27:29 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:28:12 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:28:15 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:28:27 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:28:42 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:28:58 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:29:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:29:04 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:29:09 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:29:18 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:29:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:30:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:30:30 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:30:31 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:30:32 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:30:36 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:30:37 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:31:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:31:15 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:31:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:31:36 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:31:39 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:31:39 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:32:01 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:32:01 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:32:16 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:32:20 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15251254005/wolf-driving-school-schaumburg 
+2012/12/05 17:32:20 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15251254005/wolf-driving-school-schaumburg 
+2012/12/05 17:32:20 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 17:32:32 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:32:33 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:32:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:32:50 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:33:06 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:33:23 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:33:46 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:34:10 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:34:15 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:34:36 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:35:24 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:35:26 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:35:32 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:35:43 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:35:57 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3714570921/southport-dental-pc-indianapolis-1 
+2012/12/05 17:35:57 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3714570921/southport-dental-pc-indianapolis-1 
+2012/12/05 17:35:57 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 17:36:01 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:36:04 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:36:05 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:36:25 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15253640923/electronic-security-protection-inc-manchester-1 
+2012/12/05 17:36:25 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15253640923/electronic-security-protection-inc-manchester-1 
+2012/12/05 17:36:25 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 17:36:29 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3711877124/walter-industrial--sanitary-denver 
+2012/12/05 17:36:29 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/3711877124/walter-industrial--sanitary-denver 
+2012/12/05 17:36:29 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 17:36:37 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:37:04 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:37:35 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:38:08 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:38:09 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:38:14 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:38:32 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:38:35 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:38:36 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:38:37 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:39:06 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:39:18 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:39:31 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:39:41 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:40:10 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:40:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:41:05 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:41:37 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:42:01 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:42:19 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:42:20 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:42:25 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:42:41 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:43:36 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:43:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:44:12 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:44:19 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:44:21 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:45:28 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:45:47 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:47:03 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:47:31 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:47:41 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:47:46 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:47:56 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:48:27 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: readResponse: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15243801960/kamps-propane-pine-grove-2 
+2012/12/05 17:48:27 ERROR - jmeter.protocol.http.sampler.HTTPJavaImpl: Cause: java.io.IOException: Server returned HTTP response code: 500 for URL: http://ec2.insiderpages.com/b/15243801960/kamps-propane-pine-grove-2 
+2012/12/05 17:48:27 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 500 
+2012/12/05 17:49:00 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:49:01 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:49:02 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:49:03 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:49:05 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:49:17 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Error Response Code: 404 
+2012/12/05 17:49:34 INFO  - jmeter.threads.JMeterThread: Thread finished: IP_Req 1-1 
+2012/12/05 17:49:34 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2012/12/05 17:49:34 INFO  - jmeter.services.FileServer: Close: oldip_requests.csv@1735121130 

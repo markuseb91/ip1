@@ -1,0 +1,30 @@
+elapsed,responseMessage,bytes,URL
+21046,Service Unavailable.,1792,http://ec2.insiderpages.com/b/3709398381
+3619,Service Unavailable.,80,http://ec2.insiderpages.com/
+22764,Service Unavailable.,1803,http://ec2.insiderpages.com/b/3709727764
+24019,Service Unavailable.,1785,http://ec2.insiderpages.com/b/3710408233/villa-pizza-lincoln
+694,Service Unavailable.,1802,http://ec2.insiderpages.com/b/3710324163
+862,Internal Server Error,26143,http://ec2.insiderpages.com/b/3709501539/druid-ice-tuscaloosa
+929,Internal Server Error,26154,http://ec2.insiderpages.com/b/3709675704/finishing-touch-el-dorado
+1912,Internal Server Error,26181,http://ec2.insiderpages.com/b/3709535923/metropolitan-courier-svc-inc-birmingham
+511,Internal Server Error,26152,http://ec2.insiderpages.com/b/3710365935/s--d-specialty-fontana
+3683,OK,23805,http://ec2.insiderpages.com/b/3710290708/shlemmer--algaze--associates-long-beach
+1930,Internal Server Error,26179,http://ec2.insiderpages.com/b/3709675477/blytheville-iron--metal-co-blytheville
+2018,OK,25974,http://ec2.insiderpages.com/b/3699497340/cvs-pharmacy-chinatown-washington-dc
+1249,OK,23555,http://ec2.insiderpages.com/b/3710298752/parkridge-westminster-westminster
+730,Not Found,16043,http://ec2.insiderpages.com/b/3709882801
+1398,Internal Server Error,26154,http://ec2.insiderpages.com/b/3710447286/mindful-body-san-francisco
+114,Not Found,16069,http://ec2.insiderpages.com/b/3710079062
+2740,Internal Server Error,26184,http://ec2.insiderpages.com/b/3710277937/carols-stained-glass--garden-templeton
+851,Internal Server Error,26175,http://ec2.insiderpages.com/b/3709622590/mullins-special-occasions-huntsville
+1245,Internal Server Error,26167,http://ec2.insiderpages.com/b/3710043219/el-monte-printing-inc-el-monte
+2249,Internal Server Error,26154,http://ec2.insiderpages.com/b/3709536527/r--j-rebuilders-florence
+4890,Internal Server Error,26177,http://ec2.insiderpages.com/b/3709566562/heritage-christian-preschool-oxford
+882,Internal Server Error,26184,http://ec2.insiderpages.com/b/3709669404/edward-jones-springdale-11
+1660,Internal Server Error,26151,http://ec2.insiderpages.com/b/3709466719/beno-robert-m-montgomery
+1110,Internal Server Error,26164,http://ec2.insiderpages.com/b/3709530066/mullins-body-shop-llc-cullman
+961,Internal Server Error,26148,http://ec2.insiderpages.com/b/3709751366/print-mania-arkadelphia
+134,Not Found,15985,http://ec2.insiderpages.com/b/${IP_BPP_ID_1}
+1223,Internal Server Error,26154,http://ec2.insiderpages.com/b/3709421795/graphicworks-inc-anchorage
+1110,Internal Server Error,26176,http://ec2.insiderpages.com/b/3710354117/mcr-real-estate--property-stockton
+929,Internal Server Error,26147,http://ec2.insiderpages.com/b/3709717782/supercuts-fayetteville-1

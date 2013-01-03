@@ -1,0 +1,1597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="286" lt="135" ts="1354832266976" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="41"/>
+<httpSample t="1306" lt="1261" ts="1354832269700" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="10718" lt="10668" ts="1354832272716" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23378">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832283433" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1714"/>
+</httpSample>
+<sample t="151" lt="1" ts="1354832285501" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="41"/>
+<httpSample t="453" lt="419" ts="1354832287292" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1310" lt="1268" ts="1354832290091" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="22922">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832291400" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1714"/>
+</httpSample>
+<sample t="149" lt="0" ts="1354832293071" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="54"/>
+<httpSample t="563" lt="536" ts="1354832295790" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1852" lt="1813" ts="1354832298447" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="25661">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832300299" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1727"/>
+</httpSample>
+<sample t="126" lt="1" ts="1354832302454" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="33"/>
+<httpSample t="432" lt="367" ts="1354832304725" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="2321" lt="2269" ts="1354832307088" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="22712">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832309408" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1706"/>
+</httpSample>
+<sample t="128" lt="1" ts="1354832312125" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="41"/>
+<httpSample t="520" lt="480" ts="1354832313965" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1123" lt="1097" ts="1354832317095" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="21641">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832318217" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1714"/>
+</httpSample>
+<sample t="151" lt="1" ts="1354832320877" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="40"/>
+<httpSample t="710" lt="619" ts="1354832322558" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1197" lt="1098" ts="1354832326187" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23118">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832327384" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1713"/>
+</httpSample>
+<sample t="150" lt="0" ts="1354832329123" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="38"/>
+<httpSample t="530" lt="492" ts="1354832331210" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1137" lt="1038" ts="1354832333926" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="21101">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832335062" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1711"/>
+</httpSample>
+<sample t="151" lt="0" ts="1354832337784" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="36"/>
+<httpSample t="484" lt="387" ts="1354832340816" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1409" lt="1318" ts="1354832343493" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="22845">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832344902" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1709"/>
+</httpSample>
+<sample t="138" lt="0" ts="1354832347603" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="40"/>
+<httpSample t="401" lt="311" ts="1354832349871" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1184" lt="1096" ts="1354832353050" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23103">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832354233" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1713"/>
+</httpSample>
+<sample t="151" lt="1" ts="1354832356678" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="32"/>
+<httpSample t="385" lt="302" ts="1354832358467" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1726" lt="1694" ts="1354832360928" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23470">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832362655" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1705"/>
+</httpSample>
+<sample t="150" lt="1" ts="1354832365536" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="40"/>
+<httpSample t="569" lt="491" ts="1354832367674" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1546" lt="1514" ts="1354832370237" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23310">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832371782" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1713"/>
+</httpSample>
+<sample t="126" lt="1" ts="1354832374499" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="37"/>
+<httpSample t="689" lt="644" ts="1354832377603" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1165" lt="1138" ts="1354832379876" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="27065">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832381040" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1710"/>
+</httpSample>
+<sample t="161" lt="1" ts="1354832383204" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="45"/>
+<httpSample t="299" lt="266" ts="1354832385219" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="114" lt="80" ts="1354832388472" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="28177">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832388586" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1718"/>
+</httpSample>
+<sample t="150" lt="0" ts="1354832390456" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="34"/>
+<httpSample t="530" lt="500" ts="1354832392466" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="975" lt="945" ts="1354832395457" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23057">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832396432" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1707"/>
+</httpSample>
+<sample t="165" lt="6" ts="1354832398611" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="39"/>
+<httpSample t="432" lt="388" ts="1354832400757" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="917" lt="890" ts="1354832403084" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23091">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832404000" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1712"/>
+</httpSample>
+<sample t="127" lt="0" ts="1354832405730" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="45"/>
+<httpSample t="300" lt="264" ts="1354832408337" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1130" lt="1063" ts="1354832410824" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23466">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832411954" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1718"/>
+</httpSample>
+<sample t="127" lt="2" ts="1354832414763" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="38"/>
+<httpSample t="395" lt="367" ts="1354832417670" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1098" lt="1047" ts="1354832420935" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="25336">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832422032" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1711"/>
+</httpSample>
+<sample t="114" lt="1" ts="1354832424166" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="47"/>
+<httpSample t="556" lt="507" ts="1354832427049" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="367" lt="335" ts="1354832429115" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="21765">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832429481" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1720"/>
+</httpSample>
+<sample t="150" lt="1" ts="1354832431195" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="45"/>
+<httpSample t="660" lt="625" ts="1354832433450" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="876" lt="850" ts="1354832436577" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="21686">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832437452" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1718"/>
+</httpSample>
+<sample t="127" lt="1" ts="1354832440382" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="31"/>
+<httpSample t="356" lt="319" ts="1354832442705" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1906" lt="1812" ts="1354832445487" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23185">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832447392" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1704"/>
+</httpSample>
+<sample t="151" lt="1" ts="1354832450329" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="50"/>
+<httpSample t="426" lt="305" ts="1354832453175" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="963" lt="931" ts="1354832456176" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23415">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832457139" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1723"/>
+</httpSample>
+<sample t="150" lt="1" ts="1354832458778" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="43"/>
+<httpSample t="454" lt="419" ts="1354832461525" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="858" lt="829" ts="1354832463646" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23383">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832464504" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1716"/>
+</httpSample>
+<sample t="126" lt="1" ts="1354832467241" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="40"/>
+<httpSample t="386" lt="309" ts="1354832468880" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1024" lt="993" ts="1354832472017" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23279">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832473041" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1713"/>
+</httpSample>
+<sample t="139" lt="1" ts="1354832475681" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="67"/>
+<httpSample t="620" lt="585" ts="1354832477352" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="3343" lt="3224" ts="1354832480445" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="24536">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832483787" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1740"/>
+</httpSample>
+<sample t="125" lt="0" ts="1354832486184" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="36"/>
+<httpSample t="537" lt="500" ts="1354832487910" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="877" lt="843" ts="1354832490514" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="22348">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832491390" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1709"/>
+</httpSample>
+<sample t="126" lt="1" ts="1354832493686" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="42"/>
+<httpSample t="393" lt="321" ts="1354832495429" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1018" lt="987" ts="1354832498242" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23347">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832499260" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1715"/>
+</httpSample>
+<sample t="125" lt="0" ts="1354832500931" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="41"/>
+<httpSample t="373" lt="331" ts="1354832502923" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="155" lt="115" ts="1354832505561" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23120">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832505716" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1714"/>
+</httpSample>
+<sample t="126" lt="1" ts="1354832508701" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="32"/>
+<httpSample t="327" lt="274" ts="1354832511072" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="996" lt="965" ts="1354832514346" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="22994">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832515341" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1705"/>
+</httpSample>
+<sample t="139" lt="1" ts="1354832517673" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="56"/>
+<httpSample t="397" lt="368" ts="1354832519471" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="2728" lt="2690" ts="1354832522251" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23812">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832524978" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1729"/>
+</httpSample>
+<sample t="151" lt="0" ts="1354832527467" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="39"/>
+<httpSample t="389" lt="358" ts="1354832529366" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="560" lt="520" ts="1354832532211" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="20098">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832532770" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1712"/>
+</httpSample>
+<sample t="150" lt="0" ts="1354832535751" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="60"/>
+<httpSample t="542" lt="507" ts="1354832538367" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="2159" lt="2046" ts="1354832541337" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23322">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832543495" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1733"/>
+</httpSample>
+<sample t="150" lt="1" ts="1354832545751" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="37"/>
+<httpSample t="612" lt="489" ts="1354832548643" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="813" lt="782" ts="1354832550820" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23083">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832551632" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1710"/>
+</httpSample>
+<sample t="126" lt="1" ts="1354832554528" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="44"/>
+<httpSample t="399" lt="303" ts="1354832556953" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="775" lt="741" ts="1354832559847" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="25611">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832560622" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1717"/>
+</httpSample>
+<sample t="138" lt="1" ts="1354832562899" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="59"/>
+<httpSample t="354" lt="321" ts="1354832564995" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="844" lt="809" ts="1354832567746" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="25435">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832568590" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1732"/>
+</httpSample>
+<sample t="152" lt="1" ts="1354832570845" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="50"/>
+<httpSample t="629" lt="589" ts="1354832573565" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="2096" lt="2057" ts="1354832576327" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23581">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832578423" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1723"/>
+</httpSample>
+<sample t="127" lt="1" ts="1354832581280" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="33"/>
+<httpSample t="300" lt="271" ts="1354832583457" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="664" lt="637" ts="1354832585924" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23095">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832586587" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1706"/>
+</httpSample>
+<sample t="137" lt="0" ts="1354832588534" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="32"/>
+<httpSample t="295" lt="264" ts="1354832590770" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="555" lt="528" ts="1354832593658" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="21645">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832594212" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1705"/>
+</httpSample>
+<sample t="126" lt="1" ts="1354832595808" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="41"/>
+<httpSample t="429" lt="364" ts="1354832598005" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="627" lt="599" ts="1354832600865" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23026">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832601491" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1714"/>
+</httpSample>
+<sample t="150" lt="1" ts="1354832604437" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="49"/>
+<httpSample t="723" lt="694" ts="1354832607585" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="2330" lt="2305" ts="1354832610973" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23551">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832613303" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1722"/>
+</httpSample>
+<sample t="153" lt="3" ts="1354832615810" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="34"/>
+<httpSample t="566" lt="508" ts="1354832618303" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1487" lt="1455" ts="1354832621641" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="22916">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="3" lt="0" ts="1354832623125" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1707"/>
+</httpSample>
+<sample t="128" lt="1" ts="1354832624810" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="42"/>
+<httpSample t="433" lt="406" ts="1354832627176" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="965" lt="925" ts="1354832629164" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23272">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832630128" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1715"/>
+</httpSample>
+<sample t="141" lt="1" ts="1354832631889" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="33"/>
+<httpSample t="410" lt="379" ts="1354832634311" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="2201" lt="2183" ts="1354832637492" s="false" lb="IP_HitBPP" rc="500" rm="Internal Server Error" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26146">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /Eagle Imports/</failureMessage>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832639692" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1706"/>
+</httpSample>
+<sample t="150" lt="1" ts="1354832642284" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="48"/>
+<httpSample t="423" lt="390" ts="1354832644639" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1104" lt="1061" ts="1354832647929" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="21369">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="5" lt="0" ts="1354832649028" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1721"/>
+</httpSample>
+<sample t="149" lt="1" ts="1354832651177" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="28"/>
+<httpSample t="502" lt="376" ts="1354832653491" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="894" lt="794" ts="1354832656531" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="22570">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832657425" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1701"/>
+</httpSample>
+<sample t="150" lt="1" ts="1354832660181" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="33"/>
+<httpSample t="343" lt="306" ts="1354832661933" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="813" lt="783" ts="1354832664893" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="21947">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832665706" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1706"/>
+</httpSample>
+<sample t="138" lt="0" ts="1354832667295" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="42"/>
+<httpSample t="574" lt="491" ts="1354832669141" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1035" lt="952" ts="1354832672253" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="21084">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832673287" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1715"/>
+</httpSample>
+<sample t="150" lt="0" ts="1354832676096" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="30"/>
+<httpSample t="587" lt="509" ts="1354832679036" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="811" lt="719" ts="1354832681356" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="22855">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832682167" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1703"/>
+</httpSample>
+<sample t="126" lt="1" ts="1354832684218" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="45"/>
+<httpSample t="502" lt="413" ts="1354832687124" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="802" lt="770" ts="1354832689719" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="22344">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832690521" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1718"/>
+</httpSample>
+<sample t="126" lt="1" ts="1354832692252" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="33"/>
+<httpSample t="400" lt="315" ts="1354832695089" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="959" lt="854" ts="1354832697056" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="22813">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832698015" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1706"/>
+</httpSample>
+<sample t="132" lt="1" ts="1354832699764" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="40"/>
+<httpSample t="422" lt="302" ts="1354832702027" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="910" lt="827" ts="1354832704282" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23416">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832705191" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1713"/>
+</httpSample>
+<sample t="139" lt="0" ts="1354832707322" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="30"/>
+<httpSample t="304" lt="268" ts="1354832709006" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="101" lt="72" ts="1354832710849" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="21736">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832710949" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1703"/>
+</httpSample>
+<sample t="149" lt="0" ts="1354832712561" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="42"/>
+<httpSample t="576" lt="506" ts="1354832714653" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="656" lt="619" ts="1354832716770" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23960">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832717425" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1715"/>
+</httpSample>
+<sample t="126" lt="0" ts="1354832719839" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="41"/>
+<httpSample t="646" lt="589" ts="1354832721483" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="623" lt="596" ts="1354832724679" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23401">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832725302" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1714"/>
+</httpSample>
+<sample t="150" lt="1" ts="1354832727004" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="47"/>
+<httpSample t="566" lt="520" ts="1354832729714" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="810" lt="785" ts="1354832733224" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="22131">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832734034" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1720"/>
+</httpSample>
+<sample t="150" lt="1" ts="1354832736410" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="31"/>
+<httpSample t="318" lt="286" ts="1354832738756" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="652" lt="569" ts="1354832742005" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23136">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832742658" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1704"/>
+</httpSample>
+<sample t="126" lt="1" ts="1354832744334" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="43"/>
+<httpSample t="619" lt="515" ts="1354832746204" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="784" lt="753" ts="1354832749687" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="22131">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832750471" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1716"/>
+</httpSample>
+<sample t="126" lt="1" ts="1354832752417" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="58"/>
+<httpSample t="353" lt="312" ts="1354832754628" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1101" lt="1061" ts="1354832756789" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="24351">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832757890" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1731"/>
+</httpSample>
+<sample t="151" lt="0" ts="1354832760183" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="36"/>
+<httpSample t="339" lt="306" ts="1354832762954" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1170" lt="1137" ts="1354832765777" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="22723">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832766947" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1709"/>
+</httpSample>
+<sample t="150" lt="1" ts="1354832769560" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="49"/>
+<httpSample t="561" lt="511" ts="1354832772148" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="673" lt="642" ts="1354832774855" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="22970">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832775527" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1722"/>
+</httpSample>
+<sample t="150" lt="1" ts="1354832777035" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="39"/>
+<httpSample t="569" lt="530" ts="1354832779828" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="806" lt="792" ts="1354832783032" s="false" lb="IP_HitBPP" rc="500" rm="Internal Server Error" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26167">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /Joel&apos;s Bicycle Shop/</failureMessage>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832783837" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1712"/>
+</httpSample>
+<sample t="126" lt="0" ts="1354832786597" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="45"/>
+<httpSample t="335" lt="290" ts="1354832788417" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1211" lt="1175" ts="1354832791310" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23103">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832792521" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1718"/>
+</httpSample>
+<sample t="151" lt="1" ts="1354832794931" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="34"/>
+<httpSample t="395" lt="355" ts="1354832797946" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="895" lt="864" ts="1354832801060" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23152">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832801955" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1707"/>
+</httpSample>
+<sample t="113" lt="1" ts="1354832803694" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="41"/>
+<httpSample t="634" lt="593" ts="1354832805461" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="917" lt="889" ts="1354832807754" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="19925">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832808671" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1714"/>
+</httpSample>
+<sample t="152" lt="1" ts="1354832810906" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="37"/>
+<httpSample t="399" lt="367" ts="1354832812618" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="2395" lt="2361" ts="1354832815572" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23115">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832817966" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1710"/>
+</httpSample>
+<sample t="155" lt="1" ts="1354832819786" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="31"/>
+<httpSample t="606" lt="572" ts="1354832822704" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="904" lt="875" ts="1354832825805" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="22798">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832826709" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1704"/>
+</httpSample>
+<sample t="150" lt="1" ts="1354832829474" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="41"/>
+<httpSample t="593" lt="558" ts="1354832831970" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="794" lt="763" ts="1354832834558" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23206">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832835352" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1714"/>
+</httpSample>
+<sample t="151" lt="1" ts="1354832837626" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="39"/>
+<httpSample t="414" lt="380" ts="1354832839469" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="599" lt="573" ts="1354832842012" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="22168">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832842611" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1712"/>
+</httpSample>
+<sample t="154" lt="1" ts="1354832845106" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="49"/>
+<httpSample t="298" lt="269" ts="1354832847234" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1029" lt="1000" ts="1354832850424" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="25756">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832851453" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1722"/>
+</httpSample>
+<sample t="125" lt="0" ts="1354832854363" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="36"/>
+<httpSample t="377" lt="342" ts="1354832856398" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="984" lt="913" ts="1354832859517" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="25468">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832860501" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1709"/>
+</httpSample>
+<sample t="126" lt="1" ts="1354832862964" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="32"/>
+<httpSample t="550" lt="520" ts="1354832865600" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="800" lt="761" ts="1354832869034" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23169">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832869833" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1705"/>
+</httpSample>
+<sample t="125" lt="0" ts="1354832871705" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="68"/>
+<httpSample t="653" lt="607" ts="1354832873505" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1554" lt="1523" ts="1354832876850" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23409">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832878404" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1741"/>
+</httpSample>
+<sample t="151" lt="0" ts="1354832881048" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="33"/>
+<httpSample t="308" lt="273" ts="1354832883458" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="582" lt="556" ts="1354832885970" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="22990">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832886552" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1706"/>
+</httpSample>
+<sample t="127" lt="1" ts="1354832888552" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="30"/>
+<httpSample t="297" lt="264" ts="1354832890589" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="900" lt="855" ts="1354832893335" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23113">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832894235" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1703"/>
+</httpSample>
+<sample t="150" lt="1" ts="1354832896021" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="37"/>
+<httpSample t="526" lt="448" ts="1354832898517" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="358" lt="317" ts="1354832901700" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="21630">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832902058" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1710"/>
+</httpSample>
+<sample t="125" lt="0" ts="1354832904261" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="42"/>
+<httpSample t="553" lt="523" ts="1354832906617" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1577" lt="1487" ts="1354832909097" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23443">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832910674" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1715"/>
+</httpSample>
+<sample t="150" lt="1" ts="1354832912652" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="40"/>
+<httpSample t="658" lt="577" ts="1354832914874" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1074" lt="1035" ts="1354832917646" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26277">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354832918719" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1713"/>
+</httpSample>
+<sample t="155" lt="0" ts="1354832920364" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="33"/>
+<httpSample t="433" lt="398" ts="1354832922318" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1025" lt="984" ts="1354832924818" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="28691">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832925843" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1706"/>
+</httpSample>
+<sample t="150" lt="1" ts="1354832928094" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="46"/>
+<httpSample t="339" lt="304" ts="1354832929977" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="619" lt="588" ts="1354832932460" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23115">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832933079" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1719"/>
+</httpSample>
+<sample t="126" lt="1" ts="1354832935790" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="42"/>
+<httpSample t="420" lt="385" ts="1354832937940" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="511" lt="444" ts="1354832940672" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="22724">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832941183" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1715"/>
+</httpSample>
+<sample t="150" lt="0" ts="1354832944090" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="29"/>
+<httpSample t="543" lt="510" ts="1354832946165" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1048" lt="1008" ts="1354832949214" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23303">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832950262" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1702"/>
+</httpSample>
+<sample t="141" lt="1" ts="1354832952420" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="40"/>
+<httpSample t="320" lt="271" ts="1354832955032" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="669" lt="644" ts="1354832958096" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23082">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832958765" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1713"/>
+</httpSample>
+<sample t="126" lt="1" ts="1354832960651" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="46"/>
+<httpSample t="381" lt="344" ts="1354832963319" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="892" lt="867" ts="1354832966501" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23153">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832967393" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1719"/>
+</httpSample>
+<sample t="141" lt="0" ts="1354832969012" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="31"/>
+<httpSample t="560" lt="524" ts="1354832971292" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="792" lt="760" ts="1354832974300" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="24982">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832975092" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1704"/>
+</httpSample>
+<sample t="150" lt="1" ts="1354832977964" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="46"/>
+<httpSample t="656" lt="565" ts="1354832980340" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="335" lt="306" ts="1354832983103" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="21807">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832983438" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1719"/>
+</httpSample>
+<sample t="125" lt="0" ts="1354832985165" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="58"/>
+<httpSample t="646" lt="563" ts="1354832987254" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1164" lt="1133" ts="1354832990607" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23356">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832991771" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1731"/>
+</httpSample>
+<sample t="125" lt="0" ts="1354832993881" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="50"/>
+<httpSample t="641" lt="602" ts="1354832995525" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1175" lt="1141" ts="1354832998252" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="28145">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354832999427" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1723"/>
+</httpSample>
+<sample t="139" lt="1" ts="1354833002104" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="33"/>
+<httpSample t="334" lt="301" ts="1354833003852" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="985" lt="955" ts="1354833006916" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23081">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354833007901" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1706"/>
+</httpSample>
+<sample t="126" lt="0" ts="1354833010367" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="48"/>
+<httpSample t="416" lt="323" ts="1354833013344" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="817" lt="775" ts="1354833015654" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23191">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354833016471" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1721"/>
+</httpSample>
+<sample t="127" lt="1" ts="1354833018969" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="48"/>
+<httpSample t="754" lt="660" ts="1354833021588" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="862" lt="832" ts="1354833024159" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="21459">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354833025021" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1721"/>
+</httpSample>
+<sample t="126" lt="1" ts="1354833026810" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="43"/>
+<httpSample t="912" lt="606" ts="1354833029501" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1012" lt="977" ts="1354833032122" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26234">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354833033134" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1716"/>
+</httpSample>
+<sample t="138" lt="1" ts="1354833035878" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="39"/>
+<httpSample t="469" lt="388" ts="1354833038082" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="591" lt="557" ts="1354833041224" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="22935">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354833041814" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1712"/>
+</httpSample>
+<sample t="126" lt="0" ts="1354833044796" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="32"/>
+<httpSample t="319" lt="267" ts="1354833046987" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="619" lt="580" ts="1354833049908" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="21945">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354833050527" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1705"/>
+</httpSample>
+<sample t="150" lt="1" ts="1354833052138" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="35"/>
+<httpSample t="320" lt="286" ts="1354833054124" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="507" lt="472" ts="1354833057011" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="21483">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354833057518" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1708"/>
+</httpSample>
+<sample t="152" lt="1" ts="1354833060282" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="41"/>
+<httpSample t="312" lt="267" ts="1354833062597" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1080" lt="1053" ts="1354833065886" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="25266">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354833066965" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1714"/>
+</httpSample>
+<sample t="150" lt="0" ts="1354833069430" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="45"/>
+<httpSample t="646" lt="620" ts="1354833071635" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="793" lt="767" ts="1354833074064" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23189">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354833074857" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1718"/>
+</httpSample>
+<sample t="127" lt="1" ts="1354833077438" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="50"/>
+<httpSample t="619" lt="586" ts="1354833080454" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1071" lt="1032" ts="1354833082884" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26073">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="4" lt="0" ts="1354833083951" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1723"/>
+</httpSample>
+<sample t="150" lt="1" ts="1354833085978" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="42"/>
+<httpSample t="395" lt="379" ts="1354833088128" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1031" lt="988" ts="1354833091091" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23299">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" lt="0" ts="1354833092121" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1715"/>
+</httpSample>
+<sample t="149" lt="0" ts="1354833093725" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="34"/>
+<httpSample t="385" lt="357" ts="1354833096046" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="864" lt="838" ts="1354833099085" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23155">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354833099949" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1707"/>
+</httpSample>
+<sample t="126" lt="1" ts="1354833102644" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="38"/>
+<httpSample t="696" lt="564" ts="1354833105594" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="875" lt="836" ts="1354833108156" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23131">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354833109031" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1711"/>
+</httpSample>
+<sample t="126" lt="0" ts="1354833111177" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="42"/>
+<httpSample t="488" lt="391" ts="1354833113572" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="647" lt="612" ts="1354833116370" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23837">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354833117017" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1715"/>
+</httpSample>
+<sample t="153" lt="1" ts="1354833119462" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="47"/>
+<httpSample t="414" lt="379" ts="1354833121831" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1123" lt="1085" ts="1354833124916" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="25759">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354833126039" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1720"/>
+</httpSample>
+<sample t="144" lt="1" ts="1354833127857" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="41"/>
+<httpSample t="343" lt="302" ts="1354833130967" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="2088" lt="1971" ts="1354833132955" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="53063">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354833135043" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1714"/>
+</httpSample>
+<sample t="138" lt="0" ts="1354833137870" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="42"/>
+<httpSample t="431" lt="401" ts="1354833140664" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="881" lt="854" ts="1354833143060" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="23358">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354833143941" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1715"/>
+</httpSample>
+<sample t="126" lt="1" ts="1354833146227" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="35"/>
+<httpSample t="330" lt="285" ts="1354833149126" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="903" lt="876" ts="1354833151788" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="25829">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354833152691" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1708"/>
+</httpSample>
+<sample t="150" lt="1" ts="1354833154862" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="33"/>
+<httpSample t="616" lt="582" ts="1354833157568" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+<httpSample t="1359" lt="1330" ts="1354833160954" s="true" lb="IP_HitBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="22546">
+  <assertionResult>
+    <name>CheckBPPNav_RetCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>CheckBPPNav_BPPName</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" lt="0" ts="1354833162314" s="true" lb="Debug PostProcessor" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="1706"/>
+</httpSample>
+<sample t="126" lt="0" ts="1354833163894" s="true" lb="JDBC_GetBPP" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="34"/>
+<httpSample t="609" lt="572" ts="1354833166923" s="true" lb="IP_Home" rc="200" rm="OK" tn="HitBPP_ThreadGroup 1-1" dt="text" by="26244"/>
+
+</testResults>

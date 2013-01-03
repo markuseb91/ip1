@@ -1,0 +1,13 @@
+elapsed,responseMessage,bytes,URL
+5632,Service Unavailable.,80,http://ec2.insiderpages.com/
+3571,Service Unavailable.,1804,http://ec2.insiderpages.com/b/3710270138
+28305,Service Unavailable.,1793,http://ec2.insiderpages.com/b/3709794423/botas-el-harradero-phoenix
+18878,Service Unavailable.,1789,http://ec2.insiderpages.com/b/3709494048
+27628,Service Unavailable.,1800,http://ec2.insiderpages.com/b/3709975902
+1261,Internal Server Error,26169,http://ec2.insiderpages.com/b/3709792230/april-air-conditioning-gilbert
+1113,Internal Server Error,26158,http://ec2.insiderpages.com/b/3709582676/klein-plumbing-inc-auburn
+2544,Not Found,16049,http://ec2.insiderpages.com/b/3710218621
+740,Internal Server Error,26178,http://ec2.insiderpages.com/b/3709686682/hale-martha--wilmot-dental-clinic-wilmot
+1126,Internal Server Error,26208,http://ec2.insiderpages.com/b/3710050421/center-for-orthopedics-and-rehabilitation-palmdale
+160,Not Found,16033,http://ec2.insiderpages.com/b/3709494167
+112,Not Found,15986,http://ec2.insiderpages.com/b/${IP_BPP_ID_1}

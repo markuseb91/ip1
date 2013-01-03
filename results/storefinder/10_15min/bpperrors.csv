@@ -1,0 +1,32 @@
+elapsed,responseMessage,bytes,URL
+360,OK,95759,http://ec2.insiderpages.com/store_finder
+323,OK,95781,http://ec2.insiderpages.com/store_finder
+299,OK,95791,http://ec2.insiderpages.com/store_finder
+21000,Non HTTP response message: Connection timed out,1650,http://ec2.insiderpages.com/store_finder/results/bi_lo/Atlanta/GA
+365,OK,95750,http://ec2.insiderpages.com/store_finder
+610,OK,95775,http://ec2.insiderpages.com/store_finder
+525,OK,95775,http://ec2.insiderpages.com/store_finder
+327,OK,95790,http://ec2.insiderpages.com/store_finder
+544,OK,95780,http://ec2.insiderpages.com/store_finder
+314,OK,95809,http://ec2.insiderpages.com/store_finder
+425,OK,95740,http://ec2.insiderpages.com/store_finder
+1302,Internal Server Error,26247,http://ec2.insiderpages.com/b/15237983871/eckerd-drugs-philadelphia-1
+14921,OK,95753,http://ec2.insiderpages.com/store_finder
+648,OK,95809,http://ec2.insiderpages.com/store_finder
+251,OK,95748,http://ec2.insiderpages.com/store_finder
+266,OK,95817,http://ec2.insiderpages.com/store_finder
+249,OK,95811,http://ec2.insiderpages.com/store_finder
+286,OK,95766,http://ec2.insiderpages.com/store_finder
+446,OK,95795,http://ec2.insiderpages.com/store_finder
+779,Internal Server Error,26202,http://ec2.insiderpages.com/b/3710776423/supercuts-san-francisco
+247,OK,95794,http://ec2.insiderpages.com/store_finder
+642,Internal Server Error,26278,http://ec2.insiderpages.com/b/15257485143/thrifty-car-rental-houston-14
+269,OK,95837,http://ec2.insiderpages.com/store_finder
+207,OK,95754,http://ec2.insiderpages.com/store_finder
+489,OK,95771,http://ec2.insiderpages.com/store_finder
+962,Internal Server Error,26205,http://ec2.insiderpages.com/b/15237612950/no-bones-about-it-brookline
+662,OK,95778,http://ec2.insiderpages.com/store_finder
+3326,OK,95753,http://ec2.insiderpages.com/store_finder
+259,OK,95818,http://ec2.insiderpages.com/store_finder
+358,OK,95818,http://ec2.insiderpages.com/store_finder
+613,OK,95788,http://ec2.insiderpages.com/store_finder

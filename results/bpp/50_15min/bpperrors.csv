@@ -1,0 +1,26 @@
+elapsed,responseMessage,bytes,URL
+3067,Service Unavailable.,80,http://ec2.insiderpages.com/
+19342,Service Unavailable.,1788,http://ec2.insiderpages.com/b/3709938396/cameron-realty-ajo
+22561,Service Unavailable.,1790,http://ec2.insiderpages.com/b/3709847618/edm-specialties-clarkdale
+22490,Service Unavailable.,1783,http://ec2.insiderpages.com/b/3709680747
+21250,Service Unavailable.,1788,http://ec2.insiderpages.com/b/3709516955/computer-image-birmingham
+902,Internal Server Error,26159,http://ec2.insiderpages.com/b/3710013039/audio-symphony-san-francisco
+974,Internal Server Error,26183,http://ec2.insiderpages.com/b/3709668097/lackey-radiator-shop--auto-forrest-city
+2969,Internal Server Error,26143,http://ec2.insiderpages.com/b/3710414276/best-guys-concord
+114,Not Found,16057,http://ec2.insiderpages.com/b/3710030746
+6177,Internal Server Error,26176,http://ec2.insiderpages.com/b/3710465441/infinity-auto-salvage-east-palo-alto
+7294,Not Found,16043,http://ec2.insiderpages.com/b/3709774431
+6020,Internal Server Error,26190,http://ec2.insiderpages.com/b/3710020599/golden-state-eye-medical-group-bakersfield-7
+1752,Internal Server Error,26152,http://ec2.insiderpages.com/b/3710072329/pueblo-tire-svc-napa
+1934,Internal Server Error,26182,http://ec2.insiderpages.com/b/3709429800/ground-effects-landscpg--snow-anchorage
+12671,Internal Server Error,26193,http://ec2.insiderpages.com/b/3710343875/davita-creekside-dialysis-center-vacaville-1
+2946,Internal Server Error,26210,http://ec2.insiderpages.com/b/3710226059/cairns-bruce-k-dds--bruce-k-cairns-inc-newport-beach
+5772,Internal Server Error,26173,http://ec2.insiderpages.com/b/3710277764/langs-natural-nutrition-palmdale
+14946,Internal Server Error,26175,http://ec2.insiderpages.com/b/3709391104/alaska-fitness-body-by-jen-anchorage
+10152,Internal Server Error,26150,http://ec2.insiderpages.com/b/3709629622/express-85-inc-auburn
+3837,Not Found,16032,http://ec2.insiderpages.com/b/3709502881
+14077,OK,24129,http://ec2.insiderpages.com/b/3710395786/weekend-en-espaol-san-francisco
+5094,Internal Server Error,26167,http://ec2.insiderpages.com/b/3709529413/james-martin-motor-co-montgomery
+8210,Internal Server Error,26171,http://ec2.insiderpages.com/b/3710297520/hems-brothers-mortuary-el-centro
+10375,Internal Server Error,26140,http://ec2.insiderpages.com/b/3710381842/supercuts-norco
+6552,Internal Server Error,26153,http://ec2.insiderpages.com/b/3709821549/discount-tire-phoenix-7

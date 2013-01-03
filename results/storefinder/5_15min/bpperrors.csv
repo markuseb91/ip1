@@ -1,0 +1,11 @@
+elapsed,responseMessage,bytes,URL
+191,OK,95806,http://ec2.insiderpages.com/store_finder
+533,OK,95798,http://ec2.insiderpages.com/store_finder
+215,OK,95806,http://ec2.insiderpages.com/store_finder
+1061,Internal Server Error,26339,http://ec2.insiderpages.com/b/15250718371/enterprise-rentacar-philadelphia-30
+915,Internal Server Error,26201,http://ec2.insiderpages.com/b/15251893033/tmobile-philadelphia-40
+875,Internal Server Error,26287,http://ec2.insiderpages.com/b/15257429087/bally-total-fitness-englewood-1
+477,OK,95722,http://ec2.insiderpages.com/store_finder
+722,Internal Server Error,26249,http://ec2.insiderpages.com/b/15240029435/staybridge-suites-atlanta
+508,OK,95757,http://ec2.insiderpages.com/store_finder
+509,OK,95804,http://ec2.insiderpages.com/store_finder

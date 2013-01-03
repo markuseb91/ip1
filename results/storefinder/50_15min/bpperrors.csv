@@ -1,0 +1,200 @@
+elapsed,responseMessage,bytes,URL
+243,OK,95730,http://ec2.insiderpages.com/store_finder
+526,OK,95902,http://ec2.insiderpages.com/store_finder
+250,OK,95813,http://ec2.insiderpages.com/store_finder
+1052,Internal Server Error,26281,http://ec2.insiderpages.com/b/15247349076/penske-truck-rental-dallas-30
+203,OK,95755,http://ec2.insiderpages.com/store_finder
+248,OK,95766,http://ec2.insiderpages.com/store_finder
+1105,OK,95794,http://ec2.insiderpages.com/store_finder
+344,OK,95786,http://ec2.insiderpages.com/store_finder
+289,OK,95779,http://ec2.insiderpages.com/store_finder
+292,OK,95801,http://ec2.insiderpages.com/store_finder
+665,OK,95839,http://ec2.insiderpages.com/store_finder
+194,OK,95777,http://ec2.insiderpages.com/store_finder
+342,OK,95776,http://ec2.insiderpages.com/store_finder
+393,Internal Server Error,26304,http://ec2.insiderpages.com/b/15250725169/doubletree-hotel-chicago--alsip-alsip
+898,Internal Server Error,26317,http://ec2.insiderpages.com/b/15250593130/orkin-pest--termite-control-fairfax
+528,OK,95804,http://ec2.insiderpages.com/store_finder
+653,Internal Server Error,26284,http://ec2.insiderpages.com/b/15257511537/thrifty-car-rental-las-vegas-2
+342,OK,95753,http://ec2.insiderpages.com/store_finder
+289,OK,95756,http://ec2.insiderpages.com/store_finder
+274,OK,95822,http://ec2.insiderpages.com/store_finder
+781,Internal Server Error,26162,http://ec2.insiderpages.com/b/15240020456/terminix-bothell-1
+525,OK,95816,http://ec2.insiderpages.com/store_finder
+372,OK,95803,http://ec2.insiderpages.com/store_finder
+611,OK,95743,http://ec2.insiderpages.com/store_finder
+280,OK,95814,http://ec2.insiderpages.com/store_finder
+723,OK,95791,http://ec2.insiderpages.com/store_finder
+306,OK,95814,http://ec2.insiderpages.com/store_finder
+273,OK,95773,http://ec2.insiderpages.com/store_finder
+273,OK,95803,http://ec2.insiderpages.com/store_finder
+674,OK,95797,http://ec2.insiderpages.com/store_finder
+184,OK,95835,http://ec2.insiderpages.com/store_finder
+441,OK,95852,http://ec2.insiderpages.com/store_finder
+755,OK,95808,http://ec2.insiderpages.com/store_finder
+330,OK,95797,http://ec2.insiderpages.com/store_finder
+582,OK,95720,http://ec2.insiderpages.com/store_finder
+537,OK,95729,http://ec2.insiderpages.com/store_finder
+344,OK,95758,http://ec2.insiderpages.com/store_finder
+554,OK,95762,http://ec2.insiderpages.com/store_finder
+297,OK,95806,http://ec2.insiderpages.com/store_finder
+1771,Internal Server Error,26186,http://ec2.insiderpages.com/b/3711612639/supercuts-pico-rivera
+752,OK,95768,http://ec2.insiderpages.com/store_finder
+1373,Internal Server Error,26291,http://ec2.insiderpages.com/b/15257354255/enterprise-rentacar-denver-12
+1867,OK,95792,http://ec2.insiderpages.com/store_finder
+1023,OK,95837,http://ec2.insiderpages.com/store_finder
+1063,Internal Server Error,26158,http://ec2.insiderpages.com/b/15254776415/tmobile-seattle-1
+280,OK,95768,http://ec2.insiderpages.com/store_finder
+309,OK,95767,http://ec2.insiderpages.com/store_finder
+1165,OK,95785,http://ec2.insiderpages.com/store_finder
+2389,OK,95775,http://ec2.insiderpages.com/store_finder
+734,OK,95819,http://ec2.insiderpages.com/store_finder
+1665,OK,95733,http://ec2.insiderpages.com/store_finder
+3968,OK,95799,http://ec2.insiderpages.com/store_finder
+3720,Internal Server Error,26302,http://ec2.insiderpages.com/b/15240020342/candlewood-suites-somerset-somerset
+299,OK,95789,http://ec2.insiderpages.com/store_finder
+4992,OK,95779,http://ec2.insiderpages.com/store_finder
+540,OK,95785,http://ec2.insiderpages.com/store_finder
+1622,Internal Server Error,26274,http://ec2.insiderpages.com/b/15252247946/red-roof-inn-dallasrichardson-dallas
+4134,Internal Server Error,42431,http://ec2.insiderpages.com/b/3710960571/banfield-pet-hospital-daly-city
+3082,OK,95756,http://ec2.insiderpages.com/store_finder
+499,OK,95779,http://ec2.insiderpages.com/store_finder
+2686,OK,95760,http://ec2.insiderpages.com/store_finder
+3388,Internal Server Error,26200,http://ec2.insiderpages.com/b/15257858590/tmobile-washington-dc-11
+377,OK,95828,http://ec2.insiderpages.com/store_finder
+302,OK,95768,http://ec2.insiderpages.com/store_finder
+516,OK,95838,http://ec2.insiderpages.com/store_finder
+277,OK,95729,http://ec2.insiderpages.com/store_finder
+1992,OK,95786,http://ec2.insiderpages.com/store_finder
+519,Internal Server Error,26182,http://ec2.insiderpages.com/b/3718492408/supercuts-las-vegas-3
+4345,OK,95828,http://ec2.insiderpages.com/store_finder
+513,OK,95783,http://ec2.insiderpages.com/store_finder
+4051,OK,95821,http://ec2.insiderpages.com/store_finder
+1900,OK,95786,http://ec2.insiderpages.com/store_finder
+296,OK,95793,http://ec2.insiderpages.com/store_finder
+2111,OK,95817,http://ec2.insiderpages.com/store_finder
+450,OK,95738,http://ec2.insiderpages.com/store_finder
+1167,OK,95821,http://ec2.insiderpages.com/store_finder
+986,OK,95788,http://ec2.insiderpages.com/store_finder
+3363,OK,95747,http://ec2.insiderpages.com/store_finder
+735,OK,95799,http://ec2.insiderpages.com/store_finder
+4848,OK,95822,http://ec2.insiderpages.com/store_finder
+1139,Internal Server Error,26276,http://ec2.insiderpages.com/b/15255631405/bally-total-fitness-thornton
+1314,OK,95772,http://ec2.insiderpages.com/store_finder
+384,OK,95786,http://ec2.insiderpages.com/store_finder
+258,OK,95807,http://ec2.insiderpages.com/store_finder
+879,OK,95865,http://ec2.insiderpages.com/store_finder
+2130,Internal Server Error,26298,http://ec2.insiderpages.com/b/15255297043/orkin-pest--termite-control-woburn
+2739,OK,95830,http://ec2.insiderpages.com/store_finder
+576,OK,95778,http://ec2.insiderpages.com/store_finder
+310,OK,95806,http://ec2.insiderpages.com/store_finder
+6371,OK,95805,http://ec2.insiderpages.com/store_finder
+418,OK,95748,http://ec2.insiderpages.com/store_finder
+2022,Internal Server Error,26250,http://ec2.insiderpages.com/b/15240029435/staybridge-suites-atlanta
+276,OK,95795,http://ec2.insiderpages.com/store_finder
+3851,OK,95761,http://ec2.insiderpages.com/store_finder
+760,OK,95800,http://ec2.insiderpages.com/store_finder
+424,OK,95843,http://ec2.insiderpages.com/store_finder
+1467,OK,95539,http://ec2.insiderpages.com/store_finder
+2982,OK,95803,http://ec2.insiderpages.com/store_finder
+4751,OK,95838,http://ec2.insiderpages.com/store_finder
+5747,OK,95825,http://ec2.insiderpages.com/store_finder
+725,OK,95803,http://ec2.insiderpages.com/store_finder
+605,OK,95820,http://ec2.insiderpages.com/store_finder
+3544,OK,95907,http://ec2.insiderpages.com/store_finder
+6153,OK,95804,http://ec2.insiderpages.com/store_finder
+269,OK,95781,http://ec2.insiderpages.com/store_finder
+7077,OK,95757,http://ec2.insiderpages.com/store_finder
+3157,Internal Server Error,26222,http://ec2.insiderpages.com/b/15255238267/supercuts-san-francisco-12
+923,OK,95766,http://ec2.insiderpages.com/store_finder
+501,OK,95761,http://ec2.insiderpages.com/store_finder
+3954,OK,95842,http://ec2.insiderpages.com/store_finder
+4650,Internal Server Error,26276,http://ec2.insiderpages.com/b/15255626411/bally-total-fitness-lakewood
+4114,OK,95848,http://ec2.insiderpages.com/store_finder
+2161,OK,95779,http://ec2.insiderpages.com/store_finder
+2367,Internal Server Error,26163,http://ec2.insiderpages.com/b/15254698913/tmobile-houston-48
+553,OK,95786,http://ec2.insiderpages.com/store_finder
+1012,OK,95814,http://ec2.insiderpages.com/store_finder
+3104,OK,95841,http://ec2.insiderpages.com/store_finder
+1363,OK,95778,http://ec2.insiderpages.com/store_finder
+359,OK,95782,http://ec2.insiderpages.com/store_finder
+6617,OK,95803,http://ec2.insiderpages.com/store_finder
+8298,OK,36941,http://ec2.insiderpages.com/store_finder
+11569,OK,95728,http://ec2.insiderpages.com/store_finder
+11856,OK,95787,http://ec2.insiderpages.com/store_finder
+3267,Internal Server Error,26344,http://ec2.insiderpages.com/b/15254979483/orkin-pest--termite-control-grand-prairie-2
+2218,Internal Server Error,26159,http://ec2.insiderpages.com/b/15246783156/marshalls-sumner
+2821,OK,95748,http://ec2.insiderpages.com/store_finder
+820,OK,95848,http://ec2.insiderpages.com/store_finder
+4685,OK,95783,http://ec2.insiderpages.com/store_finder
+2118,OK,95758,http://ec2.insiderpages.com/store_finder
+3259,Internal Server Error,26262,http://ec2.insiderpages.com/b/15240028026/staybridge-suites-princeton
+2516,OK,95760,http://ec2.insiderpages.com/store_finder
+1106,OK,95752,http://ec2.insiderpages.com/store_finder
+441,OK,95795,http://ec2.insiderpages.com/store_finder
+4651,OK,95792,http://ec2.insiderpages.com/store_finder
+485,OK,95819,http://ec2.insiderpages.com/store_finder
+4330,OK,95766,http://ec2.insiderpages.com/store_finder
+3356,OK,95852,http://ec2.insiderpages.com/store_finder
+309,OK,95776,http://ec2.insiderpages.com/store_finder
+285,OK,95771,http://ec2.insiderpages.com/store_finder
+9438,OK,95766,http://ec2.insiderpages.com/store_finder
+5306,OK,95758,http://ec2.insiderpages.com/store_finder
+607,OK,95814,http://ec2.insiderpages.com/store_finder
+535,OK,95817,http://ec2.insiderpages.com/store_finder
+1482,OK,95796,http://ec2.insiderpages.com/store_finder
+1211,OK,95774,http://ec2.insiderpages.com/store_finder
+1768,OK,95747,http://ec2.insiderpages.com/store_finder
+7351,OK,95807,http://ec2.insiderpages.com/store_finder
+5447,OK,95795,http://ec2.insiderpages.com/store_finder
+970,OK,95789,http://ec2.insiderpages.com/store_finder
+5207,OK,95749,http://ec2.insiderpages.com/store_finder
+1428,Internal Server Error,26250,http://ec2.insiderpages.com/b/3713907945/staybridge-suites-glenview
+1129,OK,95807,http://ec2.insiderpages.com/store_finder
+3104,Internal Server Error,26269,http://ec2.insiderpages.com/b/15255591330/rescue-rooter-san-diego-san-diego
+2645,Internal Server Error,26159,http://ec2.insiderpages.com/b/3718149681/supercuts-hoboken
+415,OK,95836,http://ec2.insiderpages.com/store_finder
+272,OK,95794,http://ec2.insiderpages.com/store_finder
+5328,Internal Server Error,26155,http://ec2.insiderpages.com/b/15249824640/tmobile-dallas-12
+2455,OK,95818,http://ec2.insiderpages.com/store_finder
+1300,OK,95762,http://ec2.insiderpages.com/store_finder
+603,OK,95828,http://ec2.insiderpages.com/store_finder
+2731,OK,95770,http://ec2.insiderpages.com/store_finder
+442,OK,95830,http://ec2.insiderpages.com/store_finder
+524,OK,95764,http://ec2.insiderpages.com/store_finder
+3422,OK,95754,http://ec2.insiderpages.com/store_finder
+2996,OK,95802,http://ec2.insiderpages.com/store_finder
+724,OK,95795,http://ec2.insiderpages.com/store_finder
+2868,Internal Server Error,26317,http://ec2.insiderpages.com/b/15257353632/penske-truck-rental-north-las-vegas
+1957,Internal Server Error,26175,http://ec2.insiderpages.com/b/15255296968/terminix-auburndale-2
+1496,Internal Server Error,26360,http://ec2.insiderpages.com/b/15250205572/red-roof-inn-chicago--northbrookdeerfield-deerfield-1
+3149,OK,95870,http://ec2.insiderpages.com/store_finder
+1619,OK,95750,http://ec2.insiderpages.com/store_finder
+2267,Internal Server Error,26227,http://ec2.insiderpages.com/b/15255310049/glass-doctor-pennsauken
+199,OK,95859,http://ec2.insiderpages.com/store_finder
+6124,OK,95724,http://ec2.insiderpages.com/store_finder
+4935,OK,95876,http://ec2.insiderpages.com/store_finder
+326,OK,95797,http://ec2.insiderpages.com/store_finder
+1383,OK,95752,http://ec2.insiderpages.com/store_finder
+2370,OK,95756,http://ec2.insiderpages.com/store_finder
+4373,OK,95813,http://ec2.insiderpages.com/store_finder
+5589,OK,95822,http://ec2.insiderpages.com/store_finder
+7749,OK,95800,http://ec2.insiderpages.com/store_finder
+4966,OK,95809,http://ec2.insiderpages.com/store_finder
+627,OK,95825,http://ec2.insiderpages.com/store_finder
+293,OK,95795,http://ec2.insiderpages.com/store_finder
+3238,OK,95881,http://ec2.insiderpages.com/store_finder
+4193,OK,95757,http://ec2.insiderpages.com/store_finder
+4419,OK,95774,http://ec2.insiderpages.com/store_finder
+491,OK,95810,http://ec2.insiderpages.com/store_finder
+2423,Internal Server Error,26209,http://ec2.insiderpages.com/b/15255343738/hr-block-san-diego-55
+3202,OK,95729,http://ec2.insiderpages.com/store_finder
+1886,OK,95810,http://ec2.insiderpages.com/store_finder
+1756,OK,95797,http://ec2.insiderpages.com/store_finder
+4010,OK,95824,http://ec2.insiderpages.com/store_finder
+279,OK,95810,http://ec2.insiderpages.com/store_finder
+8317,OK,95807,http://ec2.insiderpages.com/store_finder
+10389,OK,95729,http://ec2.insiderpages.com/store_finder
+412,OK,95788,http://ec2.insiderpages.com/store_finder
+334,OK,95769,http://ec2.insiderpages.com/store_finder
+371,OK,95747,http://ec2.insiderpages.com/store_finder
