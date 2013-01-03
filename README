@@ -1,0 +1,32 @@
+IP1/IP1.5 JMeter Scripts 
+
+
+PREREQUISTES:
+------------
+
+  + JAVA 1.6.x JDK (very important)
+
+  + JMeter installation
+
+  + JDBC drivers
+
+  + locally available mySQL database
+
+  + JMeter-Plugins install
+
+
+IP1 INSTALL:
+-----------
+
+NOTE: JMeter installation isa separate step not included here.
+
+ip1 home directory of the ip1 project
+
+./testplans directory contains the .jmx files
+
+./results generated results by jmeter-plugins' CMDRunner.jar tool
+
+
+
+
+
